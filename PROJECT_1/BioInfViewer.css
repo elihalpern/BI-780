@@ -6,6 +6,15 @@
   font-style: italic;
 }
 
+.div-left {
+  float:left;
+}
+
+.div-right {
+  float:right;
+  padding-right: 50px;
+}
+
 body {
   font-family: sans-serif;
 }
