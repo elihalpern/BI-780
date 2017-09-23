@@ -1,0 +1,38 @@
+input[type=submit]{
+    width: 200px;
+    background-color: #0b3cba;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+label{
+    width: 100px;
+    font-family: sans-serif;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+h1{
+    font-family: Verdana, sans-serif;
+}
+
+div{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 800px;
+    padding-left: 10px;
+    padding-bottom: 500px;
+}
+
+body{
+    background-color: #1e006b;
+}
